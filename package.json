@@ -1,0 +1,16 @@
+{
+  "name": "chispum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chispum.js",
+  "scripts": {
+    "test": "jest",
+    "start": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
